@@ -75,11 +75,11 @@ int main(){
 
 		const auto& products = root["products"];
 
-		for (const auto& item : products.items()) {
-			std::string product_id
-
-
-		}
+		// for (const auto& item : products.items()) {
+		// 	std::string product_id
+  //
+  //
+		// }
 
 
 
